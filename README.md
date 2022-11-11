@@ -6,9 +6,9 @@ Software Engineering
 
 Currently creating things that interest me!
 
-*   🌍  I'm based in EMEA
-*   🧠  I'm currently learning about WebSockets 
-*   🤝  I'm open to collaborating on any projects that need a functioning backend### Skills 
+*   🌍  I'm based in the EMEA region
+*   🧠  I'm currently learning about the IPFS (Interplanetary File System) 
+*   🤝  I'm open to collaborating on any projects that need a functional backend### Skills 
 *   💬  Ask me about musicals!
 *   😄 Pronouns: He/Him/His
 
